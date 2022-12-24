@@ -1,0 +1,8 @@
+/*Colar isso no Head do html */
+	<script src="js/novoJquery.js"></script>
+	
+	<script src="js/jquery.js"></script>
+	<script src="js/jquery.mask.js"></script>
+	
+	<script src="https://code.jquery.com/jquer-3.6.3.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.16/jquery.mask.min.js"></script>
